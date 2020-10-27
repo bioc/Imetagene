@@ -1,7 +1,7 @@
 Package: Imetagene
 Type: Package
 Title: A graphical interface for the metagene package
-Version: 1.20.0
+Version: 1.21.0
 Date: 2015-09-18
 Author@R: c(person("Audrey", "Lemacon", email =
         "audrey.lemacon.1@ulaval.ca"), person("Charles", "Joly
