@@ -1,7 +1,7 @@
 Package: Imetagene
 Type: Package
 Title: A graphical interface for the metagene package
-Version: 1.21.0
+Version: 1.21.1
 Date: 2015-09-18
 Author@R: c(person("Audrey", "Lemacon", email =
         "audrey.lemacon.1@ulaval.ca"), person("Charles", "Joly
@@ -24,3 +24,4 @@ Depends: R (>= 3.2.0), metagene, shiny
 Imports: d3heatmap, shinyBS, shinyFiles, shinythemes, ggplot2
 Suggests: knitr, BiocStyle, rmarkdown
 NeedsCompilation: no
+PackageStatus: Deprecated
